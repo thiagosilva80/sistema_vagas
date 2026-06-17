@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Vagas</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Vagas Disponíveis</h1>
+
+    {% for vaga in vagas %}
+
+    <div class="card">
+
+        <h2>{{ vaga[1] }}</h2>
+
+        <h4>{{ vaga[2] }}</h4>
+
+        <p>{{ vaga[3] }}</p>
+
+    </div>
+
+    {% endfor %}
+
+</div>
+
+</body>
+</html>
