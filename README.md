@@ -1,2 +1,37 @@
-# sistema_vagas
-Sistema de vagas desenvolvido em Flask
+# 💼 Sistema de Vagas
+
+Sistema web desenvolvido em Python utilizando Flask.
+
+## Sobre
+
+Aplicação para cadastro e busca de vagas de emprego.
+
+## Tecnologias
+
+- Python
+- Flask
+- HTML
+- CSS
+- MySQL
+
+## Funcionalidades
+
+✅ Cadastro de usuário  
+✅ Login  
+✅ Cadastro de vagas  
+✅ Interface responsiva  
+✅ Sistema de vagas
+
+## Como executar
+
+Clone o projeto:
+
+git clone SEU_LINK
+
+Instale as dependências:
+
+pip install -r requirements.txt
+
+Execute:
+
+python app.py
