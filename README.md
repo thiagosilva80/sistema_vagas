@@ -32,6 +32,7 @@ Instale as dependências:
 
 pip install -r requirements.txt
 
-Execute:
+## 🌐 Acesse o projeto
 
-python app.py
+🔗 Site:
+https://http://127.0.0.1:5000
