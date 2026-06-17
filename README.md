@@ -26,7 +26,7 @@ Aplicação para cadastro e busca de vagas de emprego.
 
 Clone o projeto:
 
-git clone SEU_LINK
+git clone https://github.com/thiagosilva80/thiagosilva80.git
 
 Instale as dependências:
 
